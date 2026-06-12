@@ -29,9 +29,9 @@ Languages/Systems I know (not all used on this profile):
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/pandas-dark.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/fortran.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/latex-dark.svg" width="50"></a>
-<a href="#"><img src="197655.png" width="50"></a>
-<a href="#"><img src="13-137348_logo-r-programming.png" width="50"></a>
-<a href="#"><img src="png-clipart-excel-vba-programming-for-dummies-visual-basic-for-applications-microsoft-excel-microsoft-text-logo.png" width="50"></a>
+<a href="#"><img src="197655.png" width="50" height="50"></a>
+<a href="#"><img src="13-137348_logo-r-programming.png" width="50" height="50"></a>
+<a href="#"><img src="png-clipart-excel-vba-programming-for-dummies-visual-basic-for-applications-microsoft-excel-microsoft-text-logo.png" width="50" height="50"></a>
 
 Projects Completed:
 WhoCaresAboutHolds
