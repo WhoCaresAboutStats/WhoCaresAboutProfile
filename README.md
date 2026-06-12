@@ -23,9 +23,7 @@ Languages/Systems I know (not all used on this profile):
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/sqllite.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/ruby-dark.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/keras.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/matplotlib-dark.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/swift.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/scikitlearn.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/pandas-dark.svg" width="50"></a>
