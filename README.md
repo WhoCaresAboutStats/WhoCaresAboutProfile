@@ -27,3 +27,15 @@ Languages/Systems I know (not all used on this profile):
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/swift.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/pandas-dark.svg" width="50"></a>
+
+Projects Completed:
+WhoCaresAboutHolds
+
+Projects Active:
+WhoCaresAboutComputerVision
+WhoCaresAboutNeuralNetwork
+
+Projects Future:
+WhoCaresAboutPitchComms
+WhoCaresABoutHUD
+
